@@ -5,13 +5,13 @@
 ## In Action
 
 ## ON (Both the input are low)
-
+<img src="https://github.com/VisheshYadav288037/Activity_1/blob/main/simulation/Both%20input%20off.png" >
 ## OFF (One input high and one low)
-
+<img src="https://github.com/VisheshYadav288037/Activity_1/blob/main/simulation/either%20input%20on.png" >
 ## OFF (One input high and one low)
-
+<img src="https://github.com/VisheshYadav288037/Activity_1/blob/main/simulation/either%20input%20on%202.png" >
 ## OFF (Both the input are high)
-
+<img src="https://github.com/VisheshYadav288037/Activity_1/blob/main/simulation/Both%20input%20on.png" >
 
 #### CI and Code Quality
 
